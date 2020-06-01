@@ -1,3 +1,5 @@
+#https://edube.org/learn/programming-essentials-in-python-part-2/lab-sudoku
+
 def checkBoard(arr):
     # cek kotak 3x3
     for a in range(3):
